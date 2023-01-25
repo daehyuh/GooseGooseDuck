@@ -1,5 +1,7 @@
 GooseGooseDuck
 
+c# 프로그래밍, 게임 리버싱엔지니어링 공부( 변경거리 ㅋㅋ)
+
 # speed hacking (with. x, y position)
 
 ## defalut speed 
