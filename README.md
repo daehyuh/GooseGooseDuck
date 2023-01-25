@@ -2,6 +2,8 @@ GooseGooseDuck
 
 c# 프로그래밍, 게임 리버싱엔지니어링 공부
 
+구스구스덕 게임에서 X,Y 좌표 메모리값을 얻어 스피드핵을 구현해보았습니다!
+
 # speed hacking (with. x, y position)
 
 ## defalut speed 
