@@ -1,14 +1,7 @@
 GooseGooseDuck
 
-c# 프로그래밍, 게임 해킹 연습
-
-구스구스덕 게임에서 X,Y 좌표 메모리값을 얻어 스피드핵을 구현해보았습니다! 
-
-
-
-해당 자료는 공부용으로 사용합니다!!
-
-# speed hacking (with. x, y position)
+This repository is intended for educational purposes only.
+Any risks or consequences resulting from the use of this code are the sole responsibility of the user.
 
 ## defalut speed 
 <div display = flex>
